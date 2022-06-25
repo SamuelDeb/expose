@@ -1,0 +1,3 @@
+Bonjour, 
+ceci est une démo de la construction d'un projet
+avec l'aide de git.
