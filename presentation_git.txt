@@ -1,8 +1,6 @@
 Bonjour, 
+
 ceci est une démonstration de la construction d'un projet
 avec l'aide de git.
-fuiezfb
-fezuibfizei
-fjheizbif
-fuizizfbze
-fjznpz
+au revoir
+
